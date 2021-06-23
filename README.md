@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmadorMontiel
-- 👀 I’m interested in Java application programming and public safety software
-- 🌱 I’m currently learning JDBC, SQL, and Data Structures and Algorithms 
-- 💞️ I’m looking to collaborate on Java projects!
+- 👀 I’m interested in making the user experience the best it can be!
+- 🌱 I’m currently learning mobile Android app development
+- 💞️ I’m looking to collaborate on Java projects and user interface design!
 - 📫 How to reach me: amontiel92@gmail.com 
 
 <!---
