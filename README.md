@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmadorMontiel
+## 👋 Hi, I’m @AmadorMontiel
 - 👀 I’m interested in making the user experience the best it can be!
 - 🌱 I’m currently learning mobile Android app development
 - 💞️ I’m looking to collaborate on Java projects and user interface design!
