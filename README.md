@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @AmadorMontiel
-- 👀 I’m interested in making the user experience the best it can be!
-- 🌱 I’m currently learning mobile Android app development
-- 💞️ I’m looking to collaborate on Java projects and user interface design!
+- 👀 I’m interested in freelancing!
+- 🌱 I’m currently learning about backend web developement, PeopleSoft products, and SQL!
+- 💞️ I’m looking to collaborate on web dev or PeopleSoft troubleshooting.
 - 📫 How to reach me: amontiel92@gmail.com 
 
 <!---
