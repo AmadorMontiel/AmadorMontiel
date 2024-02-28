@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @AmadorMontiel
-- 👀 I’m interested in freelancing!
-- 🌱 I’m currently learning about backend web developement, PeopleSoft products, and SQL!
-- 💞️ I’m looking to collaborate on web dev or PeopleSoft troubleshooting.
+- 👀 I’m interested in PeopleSoft Development!
+- 🌱 I’m currently learning about .NET Development!
+- 💞️ I’m looking to collaborate on PeopleSoft troubleshooting.
 - 📫 How to reach me: amontiel92@gmail.com 
 
 <!---
